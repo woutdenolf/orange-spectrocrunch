@@ -7,7 +7,7 @@ from setuptools import setup, find_packages
 
 NAME = "orange-spectrocrunch"
 
-VERSION = "0.0.1b"
+VERSION = "0.0.1b0"
 
 DESCRIPTION = "Orange Spectrocrunch add-on"
 LONG_DESCRIPTION = open(path.join(path.dirname(__file__), 'README.rst')).read()
@@ -81,7 +81,7 @@ def include_documentation(local_dir, install_dir):
     DATA_FILES.extend(doc_files)
 
 if __name__ == '__main__':
-    include_documentation('doc/build/html', 'help/orange3-spectrocrunch')
+    include_documentation('doc/build/html', 'help/orange-spectrocrunch')
     setup(
         name=NAME,
         version=VERSION,

@@ -1,2 +1,2 @@
-orange-spectrocrunch: Orange3 Spectrocrunch add-on
-==================================================
+orange-spectrocrunch: Orange Spectrocrunch add-on
+=================================================

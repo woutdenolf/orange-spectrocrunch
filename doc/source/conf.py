@@ -28,7 +28,7 @@ copyright = u'2018-%s, European Synchrotron Radiation Facility, Grenoble' % now.
 # The short X.Y version
 version = '0.0.1'
 # The full version, including alpha/beta/rc tags
-release = '0.0.1b'
+release = '0.0.1b0'
 
 
 # -- General configuration ---------------------------------------------------
